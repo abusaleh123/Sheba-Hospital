@@ -4,8 +4,8 @@ import image from '../../assets/Images/BannerImage.png'
 
 const Banner = () => {
     return (
-        <div style={{backgroundImage: `url(${bg})`, backgroundPosition:'center', backgroundSize:'cover'}} className="">
-            <div className="w-9/12 mx-auto py-20 flex 0 items-end">
+        <div style={{backgroundImage: `url(${bg})`, backgroundPosition:'center', backgroundSize:'cover'}} className="w-full ">
+            <div className="w-9/12 mx-auto py-20 flex 0  items-end">
             {/* Banner Text */}
                 <div>
                     <h1 className="text-7xl tracking-wider leading-20 text-[#333333]">Make an <br />
@@ -26,6 +26,28 @@ const Banner = () => {
                 </div>
 
             </div> 
+            {/* ACRA Card Section */}
+            <div className='bg-[#032D63] rounded-md   relative top-16 w-9/12 mx-auto py-6 px-20'>
+            <div className='flex justify-around'>
+
+                {/* Card */}
+            <div>
+            <h1 className="text-lg text-white border w-fit py-10 px-16 rounded-md">Appointment</h1>
+            </div>
+                {/* Card */}
+            <div>
+            <h1 className="text-lg text-white border w-fit py-10 px-16 rounded-md">Consultation</h1>
+            </div>
+                {/* Card */}
+            <div>
+            <h1 className="text-lg text-white border w-fit py-10 px-16 rounded-md">Report Check</h1>
+            </div>
+                {/* Card */}
+            <div>
+            <h1 className="text-lg text-white border w-fit py-10 px-16 rounded-md"> Ambulance</h1>
+            </div>
+            </div>
+            </div>
         </div>
     );
 };
