@@ -69,7 +69,7 @@ const Navbar = () => {
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-10">
       <NavLink to={'/'} className={'nav text-lg'}>Home</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Services</NavLink>
+      <NavLink to={'services'} className={'nav text-lg text-gray-800'}>Services</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
@@ -78,7 +78,7 @@ const Navbar = () => {
   {/* Search Button and others */}
     <div className="flex items-center gap-10">
 <p className="bg-[#F2F8FF] rounded-md p-5"><CiSearch className="text-xl"></CiSearch></p>
-    <a className="btn btn-ghost bg-[#032D63]  text-lg text-white rounded-md px-12 py-6">Appointment</a>
+    <button className="btn btn-ghost bg-[#032D63]  text-lg text-white rounded-md px-12 py-6">Appointment</button>
     </div>
   </div>
 </div>

@@ -27,7 +27,7 @@ const Banner = () => {
 
             </div> 
             {/* ACRA Card Section */}
-            <div className='bg-[#032D63] rounded-md   relative top-16 w-9/12 mx-auto py-6 px-20'>
+            <div className='bg-[#032D63] rounded-md   relative top-25 w-9/12 mx-auto py-12 px-20'>
             <div className='flex justify-around'>
 
                 {/* Card */}
