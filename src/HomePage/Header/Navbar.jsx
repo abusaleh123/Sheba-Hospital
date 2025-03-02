@@ -78,7 +78,7 @@ const Navbar = () => {
   {/* Search Button and others */}
     <div className="flex items-center gap-10">
 <p className="bg-[#F2F8FF] rounded-md p-5"><CiSearch className="text-xl"></CiSearch></p>
-    <a className="btn btn-ghost bg-[#032D63] hover:rounded-md hover:border-none  text-lg text-white rounded-md px-12 py-6">Appointment</a>
+    <a className="btn btn-ghost bg-[#032D63]  text-lg text-white rounded-md px-12 py-6">Appointment</a>
     </div>
   </div>
 </div>
