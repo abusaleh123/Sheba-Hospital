@@ -1,6 +1,6 @@
 import bg from '../../assets/Images/BannerBg.png'
 import videoVector from '../../assets/Vectors/play.png'
-import image from '../../assets/Images/BannerImage.png'
+import image from '../../assets/Images/Adobe Express - file.png'
 
 const Banner = () => {
     return (
@@ -21,8 +21,8 @@ const Banner = () => {
 </div>
                 </div>
                 {/* Banner Image */}
-                <div>
-                    <img className='w-full' src={image} alt="" />
+                <div className='w-7/12'>
+                    <img className='' src={image} alt="" />
                 </div>
 
             </div> 
