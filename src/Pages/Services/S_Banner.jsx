@@ -3,7 +3,7 @@ import bg from '../../assets/Images/pattern 2.png'
 const S_Banner = () => {
     return (
         <div className="bg-[#054DA8] service-linear">
-            <div style={{backgroundImage: `url(${bg})`,  backgroundSize:'contain' , }} className="">
+            <div style={{backgroundImage: `url(${bg})`,  backgroundSize:'cover' , }} className="bg-no-repeat bg-blend-darken bg-transparent">
             <div className="w-9/12 mx-auto text-center flex flex-col items-center py-30">
 
                 <h1 className="text-6xl font-semibold text-white">Medical Service</h1>

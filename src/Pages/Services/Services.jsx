@@ -3,6 +3,7 @@ import S_Banner from './S_Banner';
 import Professionals from './Professionals';
 import Our_services from './Our_services';
 import Health_Tips from './Health_Tips';
+import Looking_Doctorss from './Looking_Doctorss';
 
 const Services = () => {
     return (
@@ -11,6 +12,7 @@ const Services = () => {
             <Professionals></Professionals>
           <Our_services></Our_services>
           <Health_Tips></Health_Tips>
+          <Looking_Doctorss></Looking_Doctorss>
         </div>
     );
 };
