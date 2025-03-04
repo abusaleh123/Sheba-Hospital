@@ -12,3 +12,8 @@ body{
   font-weight: bold;
 
 }
+
+.service-linear{
+  background: rgb(3,45,99);
+background: linear-gradient(42deg, rgba(3,45,99,1) 30%, rgba(7,108,236,1) 130%, rgba(5,77,168,1) 100%);
+}

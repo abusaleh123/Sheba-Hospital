@@ -8,8 +8,8 @@ const Map = () => {
              <section>
 
 <div className="flex justify-center items-center  ">
-<div className=" w-full mx-auto h-[400px] rounded-lg overflow-hidden ">
-<MapContainer center={[24.0129, 89.2333]} zoom={15} className="h-full w-full">
+<div className=" w-full mx-auto h-[500px] rounded-lg overflow-hidden ">
+<MapContainer center={[24.0129, 89.2333]} zoom={9} className="h-full w-full">
 {/* OpenStreetMap Tile Layer */}
 <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 
