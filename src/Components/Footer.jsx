@@ -72,7 +72,7 @@ const Footer = () => {
 
             <footer className="footer sm:footer-horizontal footer-center bg-[#054DA8] text-base-content py-8">
   <aside>
-    <p className='text-[#FFFFFF] text-md'>© Seba Hospital 2023. All rights reserved by Biplob Hossain & Mithun Mallick</p>
+    <p className='text-[#FFFFFF] text-md'>© Seba Hospital 2025. All rights reserved by Md Abu Saleh Noor & Md Imran Sorkar</p>
   </aside>
 </footer>
 

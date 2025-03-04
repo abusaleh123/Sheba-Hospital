@@ -70,6 +70,7 @@ const Navbar = () => {
     <ul className="menu menu-horizontal px-1 gap-10">
       <NavLink to={'/'} className={'nav text-lg'}>Home</NavLink>
       <NavLink to={'services'} className={'nav text-lg text-gray-800'}>Services</NavLink>
+      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>About</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
