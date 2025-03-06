@@ -7,7 +7,7 @@ const Looking_Doctors = () => {
             {/* Background Image Sections */}
             <div style={{backgroundImage: `url(${bg})`, backgroundSize:'cover', backgroundPosition:'center'}}>
                 {/* Main Content Section */}
-<div className="w-9/12 mx-auto flex gap-4 justify-around items-center ">
+<div className="w-9/12 mx-auto flex gap-4 justify-end items-center ">
 {/* Text Section */}
             <div className=''>
                 <h1 className="text-5xl leading-16 text-[#FFFFFF] font-bold">Are you Looking for <br />

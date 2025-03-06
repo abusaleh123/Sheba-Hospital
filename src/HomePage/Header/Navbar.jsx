@@ -69,11 +69,11 @@ const Navbar = () => {
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-10">
       <NavLink to={'/'} className={'nav text-lg'}>Home</NavLink>
-      <NavLink to={'services'} className={'nav text-lg text-gray-800'}>Services</NavLink>
+      <NavLink to={'/services'} className={'nav text-lg text-gray-800'}>Services</NavLink>
       <NavLink to={'about'} className={'nav text-lg text-gray-800'}>About</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
+      <NavLink to={'/doctors'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
+      <NavLink to={'/emergency'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
+      <NavLink to={'/help'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
     </ul>
   </div>
   {/* Search Button and others */}
