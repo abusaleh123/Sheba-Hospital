@@ -55,10 +55,12 @@ const Navbar = () => {
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
       
       <NavLink to={'/'} className={'nav text-lg'}>Home</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Services</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
+      <NavLink to={'services'} className={'nav text-lg text-gray-800'}>Services</NavLink>
+      <NavLink to={'/about'} className={'nav text-lg text-gray-800'}>About</NavLink>
+      <NavLink to={'/Contact'} className={'nav text-lg text-gray-800'}>Contact Us</NavLink>
+      <NavLink to={'/doctors'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
+      <NavLink to={'/emergency'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
+      <NavLink to={'help'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
  
       </ul>
     </div>
@@ -70,7 +72,8 @@ const Navbar = () => {
     <ul className="menu menu-horizontal px-1 gap-10">
       <NavLink to={'/'} className={'nav text-lg'}>Home</NavLink>
       <NavLink to={'/services'} className={'nav text-lg text-gray-800'}>Services</NavLink>
-      <NavLink to={'about'} className={'nav text-lg text-gray-800'}>About</NavLink>
+      <NavLink to={'/about'} className={'nav text-lg text-gray-800'}>About</NavLink>
+      <NavLink to={'/Contact'} className={'nav text-lg text-gray-800'}>Contact Us</NavLink>
       <NavLink to={'/doctors'} className={'nav text-lg text-gray-800'}>Doctors</NavLink>
       <NavLink to={'/emergency'} className={'nav text-lg text-gray-800'}>Emergency</NavLink>
       <NavLink to={'/help'} className={'nav text-lg text-gray-800'}>Help & Support</NavLink>
