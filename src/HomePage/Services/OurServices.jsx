@@ -10,8 +10,8 @@ const OurServices = () => {
         <div className='pt-52'>
             
             <section className='w-9/12 mx-auto'>
-                {/* Title Part */}
                 <div className="text-center">
+                {/* Title Part */}
                     <h1 className="text-4xl text-[#032D63]">Our <span className='font-extrabold'>Services</span></h1>
                     <p className="text-[#858585] mt-4">The Online Seba Hospital has all the characteristics</p>
                     {/*Service Card Section */}

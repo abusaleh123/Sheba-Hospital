@@ -1,83 +1,82 @@
 [
-    {
-      "image": "doctor1.jpg",
-      "name": "Dr. Ayesha Rahman",
-      "designation": "Cardiologist",
-      "job": "Heart Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor2.jpg",
-      "name": "Dr. Hasan Ahmed",
-      "designation": "Neurologist",
-      "job": "Brain & Nerve Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor3.jpg",
-      "name": "Dr. Tanvir Hossain",
-      "designation": "Orthopedic Surgeon",
-      "job": "Bone & Joint Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor4.jpg",
-      "name": "Dr. Sharmin Akter",
-      "designation": "Gynecologist",
-      "job": "Women’s Health Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor5.jpg",
-      "name": "Dr. Rezaul Karim",
-      "designation": "Dermatologist",
-      "job": "Skin & Hair Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor6.jpg",
-      "name": "Dr. Jannatul Ferdous",
-      "designation": "Pediatrician",
-      "job": "Child Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor7.jpg",
-      "name": "Dr. Mahmudul Hasan",
-      "designation": "Ophthalmologist",
-      "job": "Eye Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor8.jpg",
-      "name": "Dr. Farhana Yasmin",
-      "designation": "Psychiatrist",
-      "job": "Mental Health Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor9.jpg",
-      "name": "Dr. Rafiq Chowdhury",
-      "designation": "ENT Specialist",
-      "job": "Ear, Nose & Throat Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    },
-    {
-      "image": "doctor10.jpg",
-      "name": "Dr. Nilufa Khan",
-      "designation": "Urologist",
-      "job": "Kidney & Urinary Specialist",
-      "hospital": "Sheba Hospital",
-      "button": "Get Appointment"
-    }
-  ]
-  
+  {
+    "image": "https://i.ibb.co.com/rGyDPj3t/20250216141701-IMG-0472.jpg",
+    "name": "Dr. Abu Saleh Noor",
+    "designation": "Medicine Specialist",
+    "job": "Medicine",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/Hp7FFYkX/fotos-H9lg5-Noj660-unsplash.jpg",
+    "name": "Dr. Ayesha Rahman",
+    "designation": "Orthopedic",
+    "job": "Orthopedic",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/603Dg4gQ/mohamad-azaam-1-O8-CJy1-A7-Wo-unsplash.jpg",
+    "name": "Dr. Khalid Hossain",
+    "designation": "Orthopedic",
+    "job": "Orthopedic",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/PsxSVKz0/vaibhav-vivian-3-HIro-Moyre8-unsplash.jpg",
+    "name": "Dr. Hasan Ahmed",
+    "designation": "Neurologist",
+    "job": "ENT",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/bMzJybSp/humberto-chavez-FVh-yq-LR9e-A-unsplash.jpg",
+    "name": "Dr. Nafisa Karim",
+    "designation": "Neurologist",
+    "job": "ENT",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/60tdHTZN/fotos-QSNCO2o-Lt-HY-unsplash.jpg",
+    "name": "Dr. Tanvir Hossain",
+    "designation": "Orthopedic Surgeon",
+    "job": "ENT",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/7tm97V6k/siednji-leon-lnl-SIsi-Sjjc-unsplash.jpg",
+    "name": "Dr. Anika Rahman",
+    "designation": "Orthopedic Surgeon",
+    "job": "Skin",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/XkJtFnpf/soybreno-cr6-Ti-Bi-Is1w-unsplash.jpg",
+    "name": "Dr. Sharmin Akter",
+    "designation": "Gynecologist",
+    "job": "Women’s Health Specialist",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/B2Q3dK01/nolan-manning-5vg-Ip-Ve-YMb8-unsplash.jpg",
+    "name": "Dr. Farzana Sultana",
+    "designation": "Gynecologist",
+    "job": "Women’s Health Specialist",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  },
+  {
+    "image": "https://i.ibb.co.com/84bhzHbS/usman-yousaf-t-Px-S-1-IPZAo-unsplash.jpg",
+    "name": "Dr. Rezaul Karim",
+    "designation": "Dermatologist",
+    "job": "Medicine",
+    "hospital": "National Institute of Cardiovascular Diseases & Hospital",
+    "button": "Get Appointment"
+  }
+]
