@@ -22,7 +22,7 @@ const Contact_Banner = () => {
           well-being and recovery.
         </p>
         <p className="flex items-center gap-2 text-white mt-10">
-          Home <FaChevronRight /> Medical Service
+          Home <FaChevronRight /> Contact Us
         </p>
       </div>
     </div>

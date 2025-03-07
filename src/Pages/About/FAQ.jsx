@@ -43,6 +43,7 @@ const FAQ = () => {
         <div className='w-9/12 mx-auto pb-20'>
 
         <div className='flex gap-10 justify-end'>
+          
 {/* Message Sending Form */}
 
             <div className='p-6 bg-[#F2F8FF] rounded-md w-5/12'>
@@ -53,7 +54,7 @@ const FAQ = () => {
              
                 <input type="text" name='name' required className="input py-6 w-full bg-white "  placeholder= " Your Full Name" />
                 
-                <input type="text" name='email' className="input py-6 w-full bg-white "
+                <input type="email" name='email' className="input py-6 w-full bg-white "
                  placeholder="Your Email Here " />
                 <textarea className='py-6 w-full bg-white px-6 focus:outline-none rounded-md' placeholder='Comment' name="message" id="" cols="15" rows="3"></textarea>
                 <button className="btn cl

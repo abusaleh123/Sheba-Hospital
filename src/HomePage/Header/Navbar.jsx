@@ -20,7 +20,7 @@ const Navbar = () => {
                     <div className="flex py-6 items-center gap-10 ">
                     <p className="flex gap-2 text-white"><img src={phone} alt="" /> +88 01234567890</p>
                     <p className="flex gap-2 text-white"><MdOutlineMail className="text-white text-2xl" /> infohospital@mail.com</p>
-                    <p className="flex gap-1 text-white"><TfiLocationPin className="text-white text-2xl " /> infohospital@mail.com</p>
+                    <p className="flex gap-1 text-white"><TfiLocationPin className="text-white text-2xl " /> Hospital Location</p>
                     </div>
                     {/* Right Side Items */}
                     <div className="flex items-center gap-12">
