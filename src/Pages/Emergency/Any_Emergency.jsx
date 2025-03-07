@@ -14,12 +14,12 @@ const Any_Emergency = () => {
             {/* Text Container */}
                 <div>
                     <p className='mb-6 text-[#FFFFFF]'>24 hours available support</p>
-          <h1 className="text-4xl font-bold text-white">Are you Looking for a Doctors?</h1>
+          <h1 className="text-4xl font-bold text-white">Any Emergency? Call us Any Time</h1>
           <p className="mt-6 text-[#FFFFFF]/80 w-3/4">The Seba Hospital has all the characteristics of a world-class hospital, including a wide range of services </p>
                 </div>
                 {/* Button Container */}
                 <div>
-                <button className="btn btn-ghost bg-[#032D63]  text-lg text-white rounded-md px-6 py-6">Make an Appointment</button>
+                <button className="btn btn-ghost bg-[#E6327C]  text-lg text-white rounded-md px-6 py-6">Call Now 10164</button>
                 </div>
                 </div>
               </div>
