@@ -8,6 +8,7 @@ import Services from '../Pages/Services/Services';
 import About from '../Pages/About/About';
 import ContactUs from '../Pages/Contact/ContactUs';
 import Emergency from '../Pages/Emergency/Emergency';
+import Help from '../Pages/HelpAndSupport/Help';
 
 const router = createBrowserRouter([
     {
@@ -33,6 +34,10 @@ const router = createBrowserRouter([
             {
                 path: '/emergency',
                 element: <Emergency></Emergency>
+            },
+            {
+                path:'/help',
+                element:<Help></Help>
             }
         ]
     }
