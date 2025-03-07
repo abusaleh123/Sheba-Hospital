@@ -47,7 +47,7 @@ const Appointment = () => {
                     </div>
                     {/* Image Container */}
                     <div className='  '>
-                        <img className='object-cover w-[492px]' src={image} alt="" />
+                        <img className='object-cover lg:w-[492px]' src={image} alt="" />
                     </div>
                 </div>
             </div>
